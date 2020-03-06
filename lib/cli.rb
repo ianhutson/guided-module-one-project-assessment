@@ -238,24 +238,23 @@ def lineup_menu
       input = gets.chomp.to_i
       $arr_id = $lineup_arr[input - 1].id
       puts "#{$lineup_arr[input - 1].title} players:"
-      binding.pry
-      if LineupPlayer.find_by(lineup_id: $arr_id).nil?
+      if LineupPlayer.find_by(lineup_id: $arr_id) == ""
         puts "PG |"
       else pg = (Player.find_by(id: (LineupPlayer.find_by(lineup_id: $arr_id)[:player_id]), position: "PG"))
         puts "PG | #{pg[:first_name]} #{pg[:last_name]}"       end
-      if LineupPlayer.find_by(lineup_id: $arr_id).nil?
+      if LineupPlayer.find_by(lineup_id: $arr_id) == ""
         puts "SG |"
       else sg = (Player.find_by(id: (LineupPlayer.find_by(lineup_id: $arr_id)[:player_id]), position: "SG"))
         puts "SG | #{sg[:first_name]} #{sg[:last_name]}"       end
-      if LineupPlayer.find_by(lineup_id: $arr_id).nil?
+      if LineupPlayer.find_by(lineup_id: $arr_id) == ""
         puts "SF|"
       else sf = (Player.find_by(id: (LineupPlayer.find_by(lineup_id: $arr_id)[:player_id]), position: "SF"))
         puts "SF | #{sf[:first_name]} #{sf[:last_name]}"       end
-      if LineupPlayer.find_by(lineup_id: $arr_id).nil?
+      if LineupPlayer.find_by(lineup_id: $arr_id) == ""
         puts "PF |"
       else pf = (Player.find_by(id: (LineupPlayer.find_by(lineup_id: $arr_id)[:player_id]), position: "PF"))
         puts "PF | #{pf[:first_name]} #{pf[:last_name]}"       end
-      if LineupPlayer.find_by(lineup_id: $arr_id).nil?
+      if LineupPlayer.find_by(lineup_id: $arr_id) == ""
         puts "C |"
       else c = (Player.find_by(id: (LineupPlayer.find_by(lineup_id: $arr_id)[:player_id]), position: "C"))
         puts "C | #{c[:first_name]} #{c[:last_name]}"       end
