@@ -1,0 +1,938 @@
+[
+    {
+        "lastname": "Young",
+        "firstname": "Trae",
+        "position": "PG",
+        "price": "9900",
+        "fdpperg": "48.1",
+        "team": "ATL"
+    },
+    {
+        "lastname": "Hunter",
+        "firstname": "De'Andre",
+        "position": "SF",
+        "price": "4600",
+        "fdpperg": "21.7",
+        "team": "ATL"
+    },
+    {
+        "lastname": "Reddish",
+        "firstname": "Cam",
+        "position": "SF",
+        "price": "4400",
+        "fdpperg": "19.8",
+        "team": "ATL"
+    },
+    {
+        "lastname": "Dinwiddie",
+        "firstname": "Spencer",
+        "position": "PG",
+        "price": "7100",
+        "fdpperg": "35.4",
+        "team": "BKN"
+    },
+    {
+        "lastname": "Allen",
+        "firstname": "Jarrett",
+        "position": "PF",
+        "price": "5000",
+        "fdpperg": "29.4",
+        "team": "BKN"
+    },
+    {
+        "lastname": "Prince",
+        "firstname": "Taurean",
+        "position": "SF",
+        "price": "4100",
+        "fdpperg": "24.2",
+        "team": "BKN"
+    },
+    {
+        "lastname": "Harris",
+        "firstname": "Joe",
+        "position": "SF",
+        "price": "4400",
+        "fdpperg": "23.3",
+        "team": "BKN"
+    },
+    {
+        "lastname": "Tatum",
+        "firstname": "Jayson",
+        "position": "PF",
+        "price": "9200",
+        "fdpperg": "41",
+        "team": "BOS"
+    },
+    {
+        "lastname": "Brown",
+        "firstname": "Jaylen",
+        "position": "SF",
+        "price": "6400",
+        "fdpperg": "33.3",
+        "team": "BOS"
+    },
+    {
+        "lastname": "Smart",
+        "firstname": "Marcus",
+        "position": "SG",
+        "price": "6200",
+        "fdpperg": "29.5",
+        "team": "BOS"
+    },
+    {
+        "lastname": "Theis",
+        "firstname": "Daniel",
+        "position": "PF",
+        "price": "5200",
+        "fdpperg": "24.3",
+        "team": "BOS"
+    },
+    {
+        "lastname": "Zeller",
+        "firstname": "Cody",
+        "position": "C",
+        "price": "4600",
+        "fdpperg": "24",
+        "team": "CHA"
+    },
+    {
+        "lastname": "Biyombo",
+        "firstname": "Bismack",
+        "position": "C",
+        "price": "4900",
+        "fdpperg": "18.4",
+        "team": "CHA"
+    },
+    {
+        "lastname": "LaVine",
+        "firstname": "Zach",
+        "position": "SG",
+        "price": "8800",
+        "fdpperg": "40",
+        "team": "CHI"
+    },
+    {
+        "lastname": "Satoransky",
+        "firstname": "Tomas",
+        "position": "PG",
+        "price": "5300",
+        "fdpperg": "25.1",
+        "team": "CHI"
+    },
+    {
+        "lastname": "Young",
+        "firstname": "Thaddeus",
+        "position": "PF",
+        "price": "5800",
+        "fdpperg": "22.1",
+        "team": "CHI"
+    },
+    {
+        "lastname": "White",
+        "firstname": "Coby",
+        "position": "PG",
+        "price": "6200",
+        "fdpperg": "21.4",
+        "team": "CHI"
+    },
+    {
+        "lastname": "Dunn",
+        "firstname": "Kris",
+        "position": "PG",
+        "price": "4200",
+        "fdpperg": "22.4",
+        "team": "CHI"
+    },
+    {
+        "lastname": "Sexton",
+        "firstname": "Collin",
+        "position": "PG",
+        "price": "5500",
+        "fdpperg": "28.9",
+        "team": "CLE"
+    },
+    {
+        "lastname": "Love",
+        "firstname": "Kevin",
+        "position": "PF",
+        "price": "6400",
+        "fdpperg": "33.9",
+        "team": "CLE"
+    },
+    {
+        "lastname": "Thompson",
+        "firstname": "Tristan",
+        "position": "C",
+        "price": "4900",
+        "fdpperg": "30.2",
+        "team": "CLE"
+    },
+    {
+        "lastname": "Clarkson",
+        "firstname": "Jordan",
+        "position": "SG",
+        "price": "5000",
+        "fdpperg": "23.1",
+        "team": "CLE"
+    },
+    {
+        "lastname": "Doncic",
+        "firstname": "Luka",
+        "position": "PG",
+        "price": "10400",
+        "fdpperg": "52.3",
+        "team": "DAL"
+    },
+    {
+        "lastname": "Porzingis",
+        "firstname": "Kristaps",
+        "position": "PF",
+        "price": "8900",
+        "fdpperg": "39.3",
+        "team": "DAL"
+    },
+    {
+        "lastname": "Finney-Smith",
+        "firstname": "Dorian",
+        "position": "SF",
+        "price": "4800",
+        "fdpperg": "21.2",
+        "team": "DAL"
+    },
+    {
+        "lastname": "Kleber",
+        "firstname": "Maxi",
+        "position": "PF",
+        "price": "4500",
+        "fdpperg": "20.7",
+        "team": "DAL"
+    },
+    {
+        "lastname": "Curry",
+        "firstname": "Seth",
+        "position": "PG",
+        "price": "5000",
+        "fdpperg": "19.5",
+        "team": "DAL"
+    },
+    {
+        "lastname": "Brunson",
+        "firstname": "Jalen",
+        "position": "PG",
+        "price": "3500",
+        "fdpperg": "16.2",
+        "team": "DAL"
+    },
+    {
+        "lastname": "Jokic",
+        "firstname": "Nikola",
+        "position": "C",
+        "price": "9500",
+        "fdpperg": "45.9",
+        "team": "DEN"
+    },
+    {
+        "lastname": "Barton",
+        "firstname": "Will",
+        "position": "SF",
+        "price": "5500",
+        "fdpperg": "31.2",
+        "team": "DEN"
+    },
+    {
+        "lastname": "Grant",
+        "firstname": "Jerami",
+        "position": "PF",
+        "price": "4800",
+        "fdpperg": "21.3",
+        "team": "DEN"
+    },
+    {
+        "lastname": "Morris",
+        "firstname": "Monte",
+        "position": "PG",
+        "price": "4300",
+        "fdpperg": "18.6",
+        "team": "DEN"
+    },
+    {
+        "lastname": "Craig",
+        "firstname": "Torrey",
+        "position": "SG",
+        "price": "3600",
+        "fdpperg": "12.6",
+        "team": "DEN"
+    },
+    {
+        "lastname": "Drummond",
+        "firstname": "Andre",
+        "position": "C",
+        "price": "7600",
+        "fdpperg": "47",
+        "team": "DET"
+    },
+    {
+        "lastname": "Rose",
+        "firstname": "Derrick",
+        "position": "PG",
+        "price": "6000",
+        "fdpperg": "30.2",
+        "team": "DET"
+    },
+    {
+        "lastname": "Galloway",
+        "firstname": "Langston",
+        "position": "SG",
+        "price": "3800",
+        "fdpperg": "17",
+        "team": "DET"
+    },
+    {
+        "lastname": "Morris",
+        "firstname": "Markieff",
+        "position": "SF",
+        "price": "3800",
+        "fdpperg": "18.5",
+        "team": "DET"
+    },
+    {
+        "lastname": "Burks",
+        "firstname": "Alec",
+        "position": "SG",
+        "price": "4100",
+        "fdpperg": "27.5",
+        "team": "GSW"
+    },
+    {
+        "lastname": "Robinson III",
+        "firstname": "Glenn",
+        "position": "SF",
+        "price": "3500",
+        "fdpperg": "22",
+        "team": "GSW"
+    },
+    {
+        "lastname": "Harden",
+        "firstname": "James",
+        "position": "SG",
+        "price": "10800",
+        "fdpperg": "56.9",
+        "team": "HOU"
+    },
+    {
+        "lastname": "Westbrook",
+        "firstname": "Russell",
+        "position": "PG",
+        "price": "10700",
+        "fdpperg": "49.6",
+        "team": "HOU"
+    },
+    {
+        "lastname": "Rivers",
+        "firstname": "Austin",
+        "position": "PG",
+        "price": "3600",
+        "fdpperg": "16",
+        "team": "HOU"
+    },
+    {
+        "lastname": "Sabonis",
+        "firstname": "Domantas",
+        "position": "PF",
+        "price": "8700",
+        "fdpperg": "41.7",
+        "team": "IND"
+    },
+    {
+        "lastname": "Holiday",
+        "firstname": "Justin",
+        "position": "SF",
+        "price": "3700",
+        "fdpperg": "19.1",
+        "team": "IND"
+    },
+    {
+        "lastname": "Holiday",
+        "firstname": "Aaron",
+        "position": "PG",
+        "price": "3600",
+        "fdpperg": "19.1",
+        "team": "IND"
+    },
+    {
+        "lastname": "McDermott",
+        "firstname": "Doug",
+        "position": "SF",
+        "price": "3500",
+        "fdpperg": "14.9",
+        "team": "IND"
+    },
+    {
+        "lastname": "Harrell",
+        "firstname": "Montrezl",
+        "position": "C",
+        "price": "5700",
+        "fdpperg": "33.5",
+        "team": "LAC"
+    },
+    {
+        "lastname": "Zubac",
+        "firstname": "Ivica",
+        "position": "C",
+        "price": "3800",
+        "fdpperg": "20.7",
+        "team": "LAC"
+    },
+    {
+        "lastname": "Harkless",
+        "firstname": "Maurice",
+        "position": "SF",
+        "price": "4100",
+        "fdpperg": "15.9",
+        "team": "LAC"
+    },
+    {
+        "lastname": "James",
+        "firstname": "LeBron",
+        "position": "SF",
+        "price": "10400",
+        "fdpperg": "51.9",
+        "team": "LAL"
+    },
+    {
+        "lastname": "Caldwell-Pope",
+        "firstname": "Kentavious",
+        "position": "SG",
+        "price": "4000",
+        "fdpperg": "17.2",
+        "team": "LAL"
+    },
+    {
+        "lastname": "Valanciunas",
+        "firstname": "Jonas",
+        "position": "C",
+        "price": "7200",
+        "fdpperg": "33.4",
+        "team": "MEM"
+    },
+    {
+        "lastname": "Brooks",
+        "firstname": "Dillon",
+        "position": "SG",
+        "price": "5800",
+        "fdpperg": "25.1",
+        "team": "MEM"
+    },
+    {
+        "lastname": "Clarke",
+        "firstname": "Brandon",
+        "position": "PF",
+        "price": "4600",
+        "fdpperg": "24.4",
+        "team": "MEM"
+    },
+    {
+        "lastname": "Jones",
+        "firstname": "Tyus",
+        "position": "PG",
+        "price": "4300",
+        "fdpperg": "17.4",
+        "team": "MEM"
+    },
+    {
+        "lastname": "Melton",
+        "firstname": "De'Anthony",
+        "position": "PG",
+        "price": "4900",
+        "fdpperg": "20.2",
+        "team": "MEM"
+    },
+    {
+        "lastname": "Adebayo",
+        "firstname": "Bam",
+        "position": "PF",
+        "price": "8800",
+        "fdpperg": "41.2",
+        "team": "MIA"
+    },
+    {
+        "lastname": "Butler",
+        "firstname": "Jimmy",
+        "position": "SG",
+        "price": "8000",
+        "fdpperg": "42.4",
+        "team": "MIA"
+    },
+    {
+        "lastname": "Dragic",
+        "firstname": "Goran",
+        "position": "PG",
+        "price": "5300",
+        "fdpperg": "27.4",
+        "team": "MIA"
+    },
+    {
+        "lastname": "Herro",
+        "firstname": "Tyler",
+        "position": "SG",
+        "price": "3600",
+        "fdpperg": "21.7",
+        "team": "MIA"
+    },
+    {
+        "lastname": "Antetokounmpo",
+        "firstname": "Giannis",
+        "position": "SF",
+        "price": "11500",
+        "fdpperg": "57.9",
+        "team": "MIL"
+    },
+    {
+        "lastname": "Lopez",
+        "firstname": "Brook",
+        "position": "C",
+        "price": "5000",
+        "fdpperg": "27.3",
+        "team": "MIL"
+    },
+    {
+        "lastname": "Hill",
+        "firstname": "George",
+        "position": "PG",
+        "price": "3500",
+        "fdpperg": "19.4",
+        "team": "MIL"
+    },
+    {
+        "lastname": "Ilyasova",
+        "firstname": "Ersan",
+        "position": "PF",
+        "price": "3600",
+        "fdpperg": "15.7",
+        "team": "MIL"
+    },
+    {
+        "lastname": "Connaughton",
+        "firstname": "Pat",
+        "position": "SG",
+        "price": "4000",
+        "fdpperg": "14.1",
+        "team": "MIL"
+    },
+    {
+        "lastname": "Brown",
+        "firstname": "Sterling",
+        "position": "SG",
+        "price": "3500",
+        "fdpperg": "11.9",
+        "team": "MIL"
+    },
+    {
+        "lastname": "Wiggins",
+        "firstname": "Andrew",
+        "position": "SF",
+        "price": "7300",
+        "fdpperg": "36.5",
+        "team": "MIN"
+    },
+    {
+        "lastname": "Covington",
+        "firstname": "Robert",
+        "position": "PF",
+        "price": "6200",
+        "fdpperg": "28.9",
+        "team": "MIN"
+    },
+    {
+        "lastname": "Okogie",
+        "firstname": "Josh",
+        "position": "PF",
+        "price": "4100",
+        "fdpperg": "19.5",
+        "team": "MIN"
+    },
+    {
+        "lastname": "Dieng",
+        "firstname": "Gorgui",
+        "position": "C",
+        "price": "5100",
+        "fdpperg": "20.5",
+        "team": "MIN"
+    },
+    {
+        "lastname": "Napier",
+        "firstname": "Shabazz",
+        "position": "PG",
+        "price": "4700",
+        "fdpperg": "22.8",
+        "team": "MIN"
+    },
+    {
+        "lastname": "Ingram",
+        "firstname": "Brandon",
+        "position": "SF",
+        "price": "8000",
+        "fdpperg": "40.4",
+        "team": "NOR"
+    },
+    {
+        "lastname": "Ball",
+        "firstname": "Lonzo",
+        "position": "PG",
+        "price": "6800",
+        "fdpperg": "32.2",
+        "team": "NOR"
+    },
+    {
+        "lastname": "Hart",
+        "firstname": "Josh",
+        "position": "SG",
+        "price": "4300",
+        "fdpperg": "23.7",
+        "team": "NOR"
+    },
+    {
+        "lastname": "Hayes",
+        "firstname": "Jaxson",
+        "position": "C",
+        "price": "3500",
+        "fdpperg": "17.4",
+        "team": "NOR"
+    },
+    {
+        "lastname": "Moore",
+        "firstname": "E'Twaun",
+        "position": "SF",
+        "price": "3500",
+        "fdpperg": "15.7",
+        "team": "NOR"
+    },
+    {
+        "lastname": "Randle",
+        "firstname": "Julius",
+        "position": "PF",
+        "price": "7800",
+        "fdpperg": "36",
+        "team": "NYK"
+    },
+    {
+        "lastname": "Robinson",
+        "firstname": "Mitchell",
+        "position": "C",
+        "price": "6200",
+        "fdpperg": "26.7",
+        "team": "NYK"
+    },
+    {
+        "lastname": "Morris",
+        "firstname": "Marcus",
+        "position": "SF",
+        "price": "4700",
+        "fdpperg": "28.7",
+        "team": "NYK"
+    },
+    {
+        "lastname": "Payton",
+        "firstname": "Elfrid",
+        "position": "PG",
+        "price": "6300",
+        "fdpperg": "29.7",
+        "team": "NYK"
+    },
+    {
+        "lastname": "Gibson",
+        "firstname": "Taj",
+        "position": "PF",
+        "price": "3800",
+        "fdpperg": "14.5",
+        "team": "NYK"
+    },
+    {
+        "lastname": "Paul",
+        "firstname": "Chris",
+        "position": "PG",
+        "price": "7100",
+        "fdpperg": "36.5",
+        "team": "OKC"
+    },
+    {
+        "lastname": "Gilgeous-Alexander",
+        "firstname": "Shai",
+        "position": "SG",
+        "price": "6900",
+        "fdpperg": "35",
+        "team": "OKC"
+    },
+    {
+        "lastname": "Schroder",
+        "firstname": "Dennis",
+        "position": "SG",
+        "price": "5300",
+        "fdpperg": "29.5",
+        "team": "OKC"
+    },
+    {
+        "lastname": "Noel",
+        "firstname": "Nerlens",
+        "position": "PF",
+        "price": "3900",
+        "fdpperg": "21.8",
+        "team": "OKC"
+    },
+    {
+        "lastname": "Fournier",
+        "firstname": "Evan",
+        "position": "SG",
+        "price": "6100",
+        "fdpperg": "29",
+        "team": "ORL"
+    },
+    {
+        "lastname": "Simmons",
+        "firstname": "Ben",
+        "position": "PG",
+        "price": "8500",
+        "fdpperg": "43.1",
+        "team": "PHI"
+    },
+    {
+        "lastname": "Harris",
+        "firstname": "Tobias",
+        "position": "SF",
+        "price": "7500",
+        "fdpperg": "34.5",
+        "team": "PHI"
+    },
+    {
+        "lastname": "Horford",
+        "firstname": "Al",
+        "position": "PF",
+        "price": "5300",
+        "fdpperg": "30.1",
+        "team": "PHI"
+    },
+    {
+        "lastname": "Thybulle",
+        "firstname": "Matisse",
+        "position": "SF",
+        "price": "3500",
+        "fdpperg": "13.9",
+        "team": "PHI"
+    },
+    {
+        "lastname": "Booker",
+        "firstname": "Devin",
+        "position": "SG",
+        "price": "7400",
+        "fdpperg": "39.4",
+        "team": "PHO"
+    },
+    {
+        "lastname": "Rubio",
+        "firstname": "Ricky",
+        "position": "PG",
+        "price": "6800",
+        "fdpperg": "33.5",
+        "team": "PHO"
+    },
+    {
+        "lastname": "Bridges",
+        "firstname": "Mikal",
+        "position": "SF",
+        "price": "5100",
+        "fdpperg": "20.9",
+        "team": "PHO"
+    },
+    {
+        "lastname": "Baynes",
+        "firstname": "Aron",
+        "position": "C",
+        "price": "3600",
+        "fdpperg": "20.7",
+        "team": "PHO"
+    },
+    {
+        "lastname": "Lillard",
+        "firstname": "Damian",
+        "position": "PG",
+        "price": "8800",
+        "fdpperg": "47.6",
+        "team": "POR"
+    },
+    {
+        "lastname": "Whiteside",
+        "firstname": "Hassan",
+        "position": "C",
+        "price": "9500",
+        "fdpperg": "43.4",
+        "team": "POR"
+    },
+    {
+        "lastname": "Bjelica",
+        "firstname": "Nemanja",
+        "position": "PF",
+        "price": "4800",
+        "fdpperg": "26.7",
+        "team": "SAC"
+    },
+    {
+        "lastname": "Holmes",
+        "firstname": "Richaun",
+        "position": "PF",
+        "price": "4700",
+        "fdpperg": "30.9",
+        "team": "SAC"
+    },
+    {
+        "lastname": "Joseph",
+        "firstname": "Cory",
+        "position": "PG",
+        "price": "3600",
+        "fdpperg": "16.7",
+        "team": "SAC"
+    },
+    {
+        "lastname": "DeRozan",
+        "firstname": "DeMar",
+        "position": "SG",
+        "price": "7500",
+        "fdpperg": "38.7",
+        "team": "SAS"
+    },
+    {
+        "lastname": "Murray",
+        "firstname": "Dejounte",
+        "position": "PG",
+        "price": "5500",
+        "fdpperg": "27.3",
+        "team": "SAS"
+    },
+    {
+        "lastname": "White",
+        "firstname": "Derrick",
+        "position": "PG",
+        "price": "4700",
+        "fdpperg": "21.9",
+        "team": "SAS"
+    },
+    {
+        "lastname": "Poeltl",
+        "firstname": "Jakob",
+        "position": "C",
+        "price": "3900",
+        "fdpperg": "19.5",
+        "team": "SAS"
+    },
+    {
+        "lastname": "Mills",
+        "firstname": "Patty",
+        "position": "PG",
+        "price": "3500",
+        "fdpperg": "18.1",
+        "team": "SAS"
+    },
+    {
+        "lastname": "Forbes",
+        "firstname": "Bryn",
+        "position": "SG",
+        "price": "3500",
+        "fdpperg": "17",
+        "team": "SAS"
+    },
+    {
+        "lastname": "Siakam",
+        "firstname": "Pascal",
+        "position": "SF",
+        "price": "8100",
+        "fdpperg": "41",
+        "team": "TOR"
+    },
+    {
+        "lastname": "Lowry",
+        "firstname": "Kyle",
+        "position": "PG",
+        "price": "7500",
+        "fdpperg": "38.7",
+        "team": "TOR"
+    },
+    {
+        "lastname": "VanVleet",
+        "firstname": "Fred",
+        "position": "SG",
+        "price": "6500",
+        "fdpperg": "36.1",
+        "team": "TOR"
+    },
+    {
+        "lastname": "Anunoby",
+        "firstname": "OG",
+        "position": "SF",
+        "price": "5000",
+        "fdpperg": "24.7",
+        "team": "TOR"
+    },
+    {
+        "lastname": "Powell",
+        "firstname": "Norman",
+        "position": "SG",
+        "price": "4800",
+        "fdpperg": "26.1",
+        "team": "TOR"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Chris",
+        "position": "PF",
+        "price": "3900",
+        "fdpperg": "15.8",
+        "team": "TOR"
+    },
+    {
+        "lastname": "Gobert",
+        "firstname": "Rudy",
+        "position": "C",
+        "price": "7800",
+        "fdpperg": "40.3",
+        "team": "UTA"
+    },
+    {
+        "lastname": "Bogdanovic",
+        "firstname": "Bojan",
+        "position": "SF",
+        "price": "5100",
+        "fdpperg": "27.8",
+        "team": "UTA"
+    },
+    {
+        "lastname": "O'Neale",
+        "firstname": "Royce",
+        "position": "PF",
+        "price": "4300",
+        "fdpperg": "18.9",
+        "team": "UTA"
+    },
+    {
+        "lastname": "Mudiay",
+        "firstname": "Emmanuel",
+        "position": "PG",
+        "price": "3500",
+        "fdpperg": "14.2",
+        "team": "UTA"
+    },
+    {
+        "lastname": "Bertans",
+        "firstname": "Davis",
+        "position": "PF",
+        "price": "4800",
+        "fdpperg": "26.3",
+        "team": "WAS"
+    },
+    {
+        "lastname": "McRae",
+        "firstname": "Jordan",
+        "position": "SG",
+        "price": "3800",
+        "fdpperg": "21.6",
+        "team": "WAS"
+    }
+]
